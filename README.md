@@ -9,20 +9,20 @@ Aplikasi desktop berbasis Python untuk membantu operasional UMKM F&B dalam menge
 ## 📸 Preview Tampilan Aplikasi & Fitur
 
 ### 📊 Tampilan Utama
-| Dashboard Analitik | Kasir / POS System |
+| Kasir / POS System | Dashboard Analitik |
 | :---: | :---: |
-| ![Dashboard Analitik](IMG-20260809-WA0016.jpg) | ![Kasir POS System](IMG-20260809-WA0011.jpg) |
+| ![Kasir POS System](IMG-20260809-WA0011.jpg) | ![Dashboard Analitik](IMG-20260809-WA0016.jpg) |
 
 ---
 
 ### 📦 Operasional & Manajemen Data
-| Monitoring Stok | Manajemen Daftar Menu | Setting Resep (BOM) |
+| Halaman Login & Code | Detail Bahan & Stok | Setting Resep (BOM) |
 | :---: | :---: | :---: |
-| ![Monitoring Stok](IMG-20260809-WA0010.jpg) | ![Manajemen Menu](IMG-20260809-WA0013.jpg) | ![Setting Resep BOM](IMG-20260809-WA0014.jpg) |
+| ![Halaman Login Code](IMG-20260809-WA0010.jpg) | ![Detail Bahan Baku](IMG-20260809-WA0013.jpg) | ![Setting Resep BOM](IMG-20260809-WA0014.jpg) |
 
-| Detail Bahan & Stok | Pembayaran & Transaksi | Halaman Login / Auth |
-| :---: | :---: | :---: |
-| ![Detail Bahan Baku](IMG-20260809-WA0012.jpg) | ![Proses Pembayaran](IMG-20260809-WA0018.jpg) | ![Halaman Login](IMG-20260809-WA0019.jpg) |
+| Monitoring Stok | Halaman Register Akun |
+| :---: | :---: |
+| ![Monitoring Stok](IMG-20260809-WA0012.jpg) | ![Register Akun](IMG-20260809-WA0018.jpg) |
 
 ---
 
