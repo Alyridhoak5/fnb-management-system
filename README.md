@@ -25,7 +25,7 @@ Aplikasi desktop berbasis Python untuk membantu operasional UMKM F&B dalam menge
 ### 🔐 Autentikasi & Pengembang
 | Halaman Login & Code | Halaman Login & Buat Akun |
 | :---: | :---: |
-| ![Login dan Code](login-Code.jpg) | ![Login dan Buat Akun](IMG-20260809-WA0018(1).jpg) |
+| ![Login dan Code](Halaman-Login-Code) | ![Login dan Buat Akun](IMG-20260809-WA0018(1).jpg) |
 
 ---
 
