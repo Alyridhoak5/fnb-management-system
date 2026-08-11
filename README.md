@@ -48,6 +48,6 @@ Aplikasi ini sedang dalam tahap pengembangan aktif:
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python 3.13
 - **GUI:** CustomTkinter / Tkinter
 - **Database:** SQLite
